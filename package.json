@@ -1,0 +1,22 @@
+{
+  "name": "tv-maze-api",
+  "version": "1.0.0",
+  "description": "are you ready for some fooooootttttbbbbballlllllll\r # Find Show",
+  "main": "tv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kantandia/tv-maze-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kantandia/tv-maze-api/issues"
+  },
+  "homepage": "https://github.com/Kantandia/tv-maze-api#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
