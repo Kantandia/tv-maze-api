@@ -19,8 +19,8 @@ axios.get(URL).then(function(response) {
   };
 };
 
-var tv=new TV();
-tv.findShow('breaking bad');
+// var tv=new TV();
+// tv.findShow('breaking bad');
 
 
 module.exports = TV;
